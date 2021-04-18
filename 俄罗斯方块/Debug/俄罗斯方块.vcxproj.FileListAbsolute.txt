@@ -1,0 +1,2 @@
+D:\VS\俄罗斯方块\Debug\俄罗斯方块.exe
+D:\VS\俄罗斯方块\Debug\俄罗斯方块.pdb
